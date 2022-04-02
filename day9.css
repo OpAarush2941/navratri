@@ -1,0 +1,31 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 95%;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    color: orangered;
+    font-weight: bolder;
+}
+
+#day1info{
+    width: 80%;
+    background-color: white;
+    border: 2px solid black;
+    border-radius: 10px;
+    font-size: 20px;
+    color: orangered;
+    font-weight: bolder;
+    padding: 10px;
+}
+#day2img{
+    width: 550px;
+}
+
+.back{
+    color: orangered;
+}
